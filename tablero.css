@@ -4,4 +4,26 @@ body{
     }      
 h1 {
     color: red;
+    display: flex;
+    justify-content: center;
     }    
+.items{
+    display: flex;
+    
+
+    
+
+        }
+.iconos {
+    
+}
+header{
+    display: flex;
+    justify-content: space-between;
+    
+}
+.nav-item a {
+    color: black;
+}
+    
+    
